@@ -129,7 +129,7 @@ Each dataset supports at least 1,000 records over the full extracted range.
 - Individual contribution files: `docs/work_breakdown/`
 
 Final Moodle naming:
-- Report: `TeamX.pdf`
-- Code archive: `TeamX.zip`
-- Video: `TeamX.mp4`
+- Report: `TeamW.pdf`
+- Code archive: `TeamW.zip`
+- Video: `TeamW.mp4`
 - Individual contribution: `x12345678.pdf` (one per member)
